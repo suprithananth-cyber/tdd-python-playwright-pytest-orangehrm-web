@@ -1,0 +1,10 @@
+form_fields_link = '[href="https://practice-automation.com/form-fields/"]'
+name = "#name-input"
+password = '[type="password"]'
+drink1 = "#drink1"
+drink2 = "#drink2"
+color1 = "#color1"
+automation = "#automation"
+email = "#email"
+message = "#message"
+submit = "#submit-btn"

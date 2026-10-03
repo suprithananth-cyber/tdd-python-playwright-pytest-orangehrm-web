@@ -1,0 +1,1 @@
+topbar_tab = 'li[class="oxd-topbar-body-nav-tab --visited"]'

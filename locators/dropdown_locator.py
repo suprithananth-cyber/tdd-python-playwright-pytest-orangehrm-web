@@ -1,0 +1,1 @@
+user_dropdown = 'p[class="oxd-userdropdown-name"]'
