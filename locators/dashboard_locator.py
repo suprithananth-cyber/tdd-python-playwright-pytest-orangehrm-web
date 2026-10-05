@@ -1,1 +1,1 @@
-dashboard = "h6"
+dashboard = '[href="/web/index.php/dashboard/index"]'
